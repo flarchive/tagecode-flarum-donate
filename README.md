@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of tagecode/flarum-donate.** Not for installation: use [Packagist](https://packagist.org/packages/tagecode/flarum-donate) or the [upstream repository](https://github.com/tagecode/flarum-donate).
 
-**0** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/tagecode-flarum-donate/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`v0.2.0`](https://github.com/flarchive/tagecode-flarum-donate/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2021-12-30 | `^1.0.0` | [Browse](https://github.com/flarchive/tagecode-flarum-donate/tree/archive/v0.1.0) |
+| `v0.2.0` | 2022-01-01 | `^1.0.0` | [Browse](https://github.com/flarchive/tagecode-flarum-donate/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/tagecode-flarum-donate.json](https://github.com/flarchive/archive-index/blob/main/packages/tagecode-flarum-donate.json)
 
